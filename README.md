@@ -2,7 +2,7 @@
 
 command 
 ```
-git clone https://github.com/zicohop159/hack_facebook.git
+git clone https://github.com/zicohipe1/hack_facebook.git
 cd hack_facebook
 python hacker.py
 python hacker1.py
